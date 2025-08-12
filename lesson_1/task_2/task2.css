@@ -1,0 +1,20 @@
+#text_content {
+    font-family: Arial;
+    font-size: 22px;
+    color: rgb(188, 0, 0);
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.section h2 {
+    font-size: 18px;
+    color: rgb(16, 153, 16);
+}
+
+.creator p {
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: 700;
+}
