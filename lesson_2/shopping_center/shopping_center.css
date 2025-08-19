@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+body {
+    font-family: "Nunito", sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+
+.a1_store span {
+    font-style: italic;
+    font-weight: 900;
+}
+
+.bershka_store span {
+    font-style: oblique;
+    font-weight: 700;
+}
+
+.ciela_store span {
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.mall_images img {
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.more_stores div {
+    display: inline-block;
+    width: 700px;
+    text-align: center;
+}
+
+.more_stores .dm_store span {
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.more_stores .gianni_store span {
+    font-weight: 700;
+}
+
+.more_stores .gianni_store .function {
+    font-style: italic;
+}
