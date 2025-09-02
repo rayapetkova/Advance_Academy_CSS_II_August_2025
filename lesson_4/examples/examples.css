@@ -1,0 +1,58 @@
+.badminton a {
+    text-decoration: none;
+}
+
+.badminton h2:hover {
+    background-color: rgba(255, 227, 184, 0.784);
+}
+
+.badminton a:link {
+    color: rgb(238, 46, 46);
+}
+
+.badminton a:visited {
+    color: rgb(250, 176, 79);
+}
+
+.badminton a:hover {
+    color: rgb(3, 165, 165);
+    text-decoration: underline;
+}
+
+.badminton a:active {
+    color: rgb(211, 118, 12);
+}
+
+.ice_skating h2:hover {
+    background-color: rgba(199, 229, 255, 0.806);
+}
+
+.ice_skating a:link {
+    color: rgb(82, 148, 17);
+}
+
+.ice_skating a:visited {
+    color: rgba(165, 42, 42, 0.812);
+}
+
+.ice_skating a:hover {
+    color: rgba(165, 42, 42, 0.672);
+}
+
+.ice_skating a:active {
+    color: rgb(240, 193, 134);
+}
+
+.example_button {
+    background-color: blanchedalmond;
+    border: solid 2px rgb(255, 220, 166);
+    border-radius: 3px;
+    padding: 10px;
+    margin-top: 20px;
+    transition: background-color 0.5s;
+}
+
+.example_button:hover {
+    background-color: rgb(255, 220, 166);
+    cursor: pointer;
+}
