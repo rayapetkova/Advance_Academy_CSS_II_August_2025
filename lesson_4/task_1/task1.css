@@ -1,0 +1,21 @@
+.navigation a {
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    text-decoration: underline;
+    background-color: rgb(222, 222, 183);
+}
+
+.online_store_image {
+    width: 400px;
+}
+
+.online_store_image:hover {
+    display: none;
+}
+
+.description:hover {
+    border: solid 2px rgb(255, 95, 95);
+    padding: 15px;
+}
