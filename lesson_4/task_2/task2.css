@@ -1,0 +1,25 @@
+body {
+    position: relative;
+}
+
+.navigation {
+    position: sticky;
+    background-color: bisque;
+    top: 10px;
+}
+
+.navigation li {
+    margin-top: 10px;
+}
+
+.navigation a {
+    color: rgb(100, 100, 230);
+    text-decoration: none;
+    font-size: 28px;
+    transition: color 0.3s;
+}
+
+.navigation a:hover {
+    color: rgb(0, 123, 0);
+    text-decoration: underline;
+}
